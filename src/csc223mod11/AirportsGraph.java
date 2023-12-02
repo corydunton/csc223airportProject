@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Scanner;
 
-public class AirportGraphs {
+public class AirportsGraph {
 
 	public static void main(String[] args) {
 
