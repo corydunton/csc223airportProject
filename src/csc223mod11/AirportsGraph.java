@@ -14,7 +14,7 @@ public class AirportsGraph {
 		Scanner scan = new Scanner(System.in);
 
 		while (true) {
-			System.out.println("\nAirport Graph Application");
+			System.out.println("Airport Graph Application");
 			System.out.println("1. Summarize Airport Dataset");
 			System.out.println("2. Calculate Flight Path");
 			System.out.println("3. Exit");
